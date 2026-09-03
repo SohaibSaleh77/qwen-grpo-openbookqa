@@ -1,0 +1,11 @@
+[project]
+name = "grpo-openbookqa"
+requires-python = ">=3.10"
+dependencies = [
+"torch",
+"transformers",
+"datasets",
+"peft",
+"trl",
+"accelerate",
+]

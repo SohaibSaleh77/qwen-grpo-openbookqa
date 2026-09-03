@@ -1,0 +1,35 @@
+# Python
+**pycache**/
+*.py[cod]
+*.so
+
+# Virtual environments
+
+venv/
+env/
+
+# IDE
+
+.vscode/
+.idea/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Training outputs
+
+SmolLM2-GRPO-Test/
+checkpoints/
+runs/
+
+# Model files
+
+*.bin
+*.safetensors
+*.pth
+
+# OS
+
+.DS_Store
+Thumbs.db
